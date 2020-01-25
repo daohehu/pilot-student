@@ -2,7 +2,9 @@
 
 使用方法请参见 [主仓库](https://github.com/neolee/pilot)。
 欢迎来到稻荷狐的编程世界！
+
 ![image](https://cdn.pixabay.com/photo/2015/06/12/18/44/fox-807315__340.png)
+
 > github推送,先`git commit -a`填写备注，然后`git push`进行推送。
 ## 常用语句与命令
 ### `for`
